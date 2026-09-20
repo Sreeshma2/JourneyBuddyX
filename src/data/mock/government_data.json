@@ -1,0 +1,85 @@
+[
+  {
+    "id": "src-asi",
+    "name": "Archaeological Survey of India (ASI)",
+    "authority": "Ministry of Culture, Government of India",
+    "licenseType": "Official Government Gazette / Open Access Tourism Registry",
+    "jurisdiction": "National Heritage Monuments & UNESCO Sites",
+    "lastSync": "Live Verified 2026",
+    "verifiedTariffItems": [
+      {
+        "name": "Standard Ticketed Monument Circle",
+        "officialFee": "₹25 – ₹50 (Domestic) / ₹300 (Foreign)",
+        "gazetteRef": "ASI-T-2024/918"
+      },
+      {
+        "name": "Composite Heritage Pass",
+        "officialFee": "₹100 (Domestic) / ₹550 (Foreign)",
+        "gazetteRef": "ASI-COMP-882"
+      }
+    ],
+    "trafficHelpline": "1800-11-1363 (National Tourist Helpline 24x7 in 12 languages)",
+    "officialPortalUrl": "https://asi.nic.in"
+  },
+  {
+    "id": "src-ttdc",
+    "name": "Tamil Nadu Tourism Development Corp (TTDC)",
+    "authority": "Tourism, Culture and Religious Endowments Dept, Govt of Tamil Nadu",
+    "licenseType": "State Maritime & Hospitality License #TN-TTDC-089",
+    "jurisdiction": "Tamil Nadu Coastal & Pilgrim Destinations",
+    "lastSync": "Synced Today",
+    "verifiedTariffItems": [
+      {
+        "name": "Kanyakumari Vivekananda Ferry Roundtrip",
+        "officialFee": "₹50 (General) / ₹200 (Special entry)",
+        "gazetteRef": "TNB-MARITIME-2025"
+      },
+      {
+        "name": "Government Hotel & Sightseeing Coach",
+        "officialFee": "Pre-fixed standard government tariff",
+        "gazetteRef": "TTDC-COACH-77"
+      }
+    ],
+    "trafficHelpline": "04652-246276 (Kanyakumari Tourist Office)",
+    "officialPortalUrl": "https://tamilnadutourism.tn.gov.in"
+  },
+  {
+    "id": "src-ktdc",
+    "name": "Kerala Tourism & DTPC Maritime Registry",
+    "authority": "Department of Tourism, Government of Kerala",
+    "licenseType": "Kerala Inland Vessels Rule 2021 Safety License",
+    "jurisdiction": "Kerala Backwaters, Hill Stations & Wildlife Sanctuaries",
+    "lastSync": "Synced Today",
+    "verifiedTariffItems": [
+      {
+        "name": "Certified Backwater Shikara Fixed Hourly Rate",
+        "officialFee": "₹400 / hour (Regulated Stand rate)",
+        "gazetteRef": "DTPC-ALP-2025/12"
+      },
+      {
+        "name": "Munnar Eravikulam Forest Pass",
+        "officialFee": "₹200 (Forest Dept Gazette)",
+        "gazetteRef": "KF-WILD-901"
+      }
+    ],
+    "trafficHelpline": "1800-425-4747 (Kerala Tourism 24x7)",
+    "officialPortalUrl": "https://keralatourism.org"
+  },
+  {
+    "id": "src-nhai",
+    "name": "National Highways Authority of India (NHAI) & Traffic Police",
+    "authority": "Ministry of Road Transport and Highways (MoRTH)",
+    "licenseType": "FASTag Realtime Toll & Highway Safety Traffic Feed",
+    "jurisdiction": "National & State Highway Corridors (NH-44, NH-66, NH-85)",
+    "lastSync": "Live Broadcast",
+    "verifiedTariffItems": [
+      {
+        "name": "National Tourist Taxi Permit Standard",
+        "officialFee": "Interstate All India Tourist Permit (AITP)",
+        "gazetteRef": "MoRTH-AITP-2023"
+      }
+    ],
+    "trafficHelpline": "1033 (NHAI Emergency Highway Assistance) / 112 (National Emergency)",
+    "officialPortalUrl": "https://nhai.gov.in"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "name": "Journey Buddy",
+  "description": "Smart, simple, and safe AI travel companion powered by Phoenix for discovering, planning, and navigating journeys.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

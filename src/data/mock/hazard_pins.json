@@ -1,0 +1,102 @@
+[
+  {
+    "id": "hz-101",
+    "type": "road_blocked",
+    "title": "Ferry Ghat Approach Road Blocked",
+    "description": "Culvert drainage work in progress near Market Street. Walking detour active via Beach Promenade.",
+    "locationName": "Kanyakumari • Ferry Road",
+    "coordinates": {
+      "lat": 8.0792,
+      "lng": 77.5512
+    },
+    "geom": {
+      "type": "Point",
+      "coordinates": [77.5512, 8.0792]
+    },
+    "reportedAt": "12 mins ago",
+    "reportedBy": "Karthik S. (Tour Guide)",
+    "upvotes": 18,
+    "status": "verified_by_traffic_police",
+    "severity": "medium"
+  },
+  {
+    "id": "hz-102",
+    "type": "scam",
+    "title": "Unauthorized Fast-Track Ferry Ticket Touts",
+    "description": "Individuals selling unofficial paper tokens at ₹150 outside gate. Official TTDC counter is ₹50 inside.",
+    "locationName": "Vivekananda Rock Boat Jetty Entrance",
+    "coordinates": {
+      "lat": 8.0781,
+      "lng": 77.5535
+    },
+    "geom": {
+      "type": "Point",
+      "coordinates": [77.5535, 8.0781]
+    },
+    "reportedAt": "35 mins ago",
+    "reportedBy": "Ananya M. (Solo Traveler)",
+    "upvotes": 27,
+    "status": "active",
+    "severity": "high"
+  },
+  {
+    "id": "hz-103",
+    "type": "weather",
+    "title": "High Tide & Slippery Rocks Warning",
+    "description": "Rough coastal swell and water spray onto lower promenade rocks. Keep behind safety barrier.",
+    "locationName": "Sunset Point & Triveni Sangam",
+    "coordinates": {
+      "lat": 8.081,
+      "lng": 77.548
+    },
+    "geom": {
+      "type": "Point",
+      "coordinates": [77.548, 8.081]
+    },
+    "reportedAt": "1 hour ago",
+    "reportedBy": "Marine Safety Post #2",
+    "upvotes": 41,
+    "status": "active",
+    "severity": "high"
+  },
+  {
+    "id": "hz-104",
+    "type": "under_construction",
+    "title": "Heritage Walkway Paver Installation",
+    "description": "Southern walkway partially restricted. Electric buggy access rerouted to Northern Boulevard.",
+    "locationName": "Gandhi Memorial Heritage Corridor",
+    "coordinates": {
+      "lat": 8.0805,
+      "lng": 77.552
+    },
+    "geom": {
+      "type": "Point",
+      "coordinates": [77.552, 8.0805]
+    },
+    "reportedAt": "3 hours ago",
+    "reportedBy": "Town Municipal Board",
+    "upvotes": 9,
+    "status": "active",
+    "severity": "low"
+  },
+  {
+    "id": "hz-105",
+    "type": "unsafe_area",
+    "title": "Streetlight Cable Outage on East Shoreline Lane",
+    "description": "Dim lighting after 8 PM along 200m stretch. Police patrol frequency increased; stay on main lit road.",
+    "locationName": "East Coast Fishing Harbor By-lane",
+    "coordinates": {
+      "lat": 8.0835,
+      "lng": 77.5545
+    },
+    "geom": {
+      "type": "Point",
+      "coordinates": [77.5545, 8.0835]
+    },
+    "reportedAt": "5 hours ago",
+    "reportedBy": "Travelers Safety Watch",
+    "upvotes": 14,
+    "status": "active",
+    "severity": "medium"
+  }
+]

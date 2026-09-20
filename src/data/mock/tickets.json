@@ -1,0 +1,74 @@
+[
+  {
+    "id": "tkt-001",
+    "ticketNumber": "TTDC-VK-2026-89412",
+    "destinationId": "kanyakumari",
+    "attractionName": "Vivekananda Rock Memorial & Thiruvalluvar Statue Ferry",
+    "category": "FERRY",
+    "visitDate": "Today",
+    "slotTime": "02:30 PM – 04:00 PM",
+    "guestCount": {
+      "adults": 2,
+      "children": 0,
+      "seniors": 0
+    },
+    "tariffTier": "INDIAN_NATIONAL",
+    "totalAmount": 100,
+    "currency": "INR",
+    "status": "CONFIRMED",
+    "qrCodeValue": "GOV-TN-FERRY-89412-CONFIRMED",
+    "barcodeNumber": "8904120023451",
+    "bookingTimestamp": "Today, 10:15 AM",
+    "govAuthority": "Tamil Nadu Tourism Development Corporation (TTDC) & Port Dept",
+    "gateInstructions": "Proceed directly to E-Ticket Turnstile Gate 3. Life jackets provided at pontoon.",
+    "holderName": "Sreeshma"
+  },
+  {
+    "id": "tkt-002",
+    "ticketNumber": "ASI-AMR-2026-10492",
+    "destinationId": "jaipur",
+    "attractionName": "Amer Fort & Sheesh Mahal Entry Pass",
+    "category": "MONUMENT",
+    "visitDate": "Tomorrow",
+    "slotTime": "09:30 AM – 11:30 AM",
+    "guestCount": {
+      "adults": 1,
+      "children": 0,
+      "seniors": 0
+    },
+    "tariffTier": "INDIAN_NATIONAL",
+    "totalAmount": 100,
+    "currency": "INR",
+    "status": "CONFIRMED",
+    "qrCodeValue": "ASI-JAIPUR-10492-CONFIRMED",
+    "barcodeNumber": "8901049200412",
+    "bookingTimestamp": "Yesterday, 04:20 PM",
+    "govAuthority": "Archaeological Survey of India (ASI)",
+    "gateInstructions": "Present QR code at Suraj Pol gate scanner. Guide headset available at courtyard counter 2.",
+    "holderName": "Sreeshma"
+  },
+  {
+    "id": "tkt-003",
+    "ticketNumber": "KFD-MNR-2026-30219",
+    "destinationId": "munnar",
+    "attractionName": "Eravikulam National Park Nilgiri Tahr Safari",
+    "category": "SAFARI",
+    "visitDate": "Upcoming",
+    "slotTime": "08:00 AM – 10:30 AM",
+    "guestCount": {
+      "adults": 2,
+      "children": 0,
+      "seniors": 0
+    },
+    "tariffTier": "INDIAN_NATIONAL",
+    "totalAmount": 400,
+    "currency": "INR",
+    "status": "CONFIRMED",
+    "qrCodeValue": "KFD-ERAVIKULAM-30219-CONFIRMED",
+    "barcodeNumber": "8903021900192",
+    "bookingTimestamp": "3 days ago",
+    "govAuthority": "Kerala Department of Forests and Wildlife",
+    "gateInstructions": "Board the authorized Forest Dept electric mini-bus at 5th Mile base station.",
+    "holderName": "Sreeshma"
+  }
+]
